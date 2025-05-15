@@ -20,7 +20,6 @@ Languages and Tools:
 <img align="left" alt="Google Spreadsheet" src="https://img.icons8.com/?size=100&id=30461&format=png&color=000000"/>
 <img align="left" alt="Sql" src="https://img.icons8.com/?size=100&id=77694&format=png&color=000000"/>
 <img align="left" alt="Tableau" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"/>
-<img align="left" alt="Sql" src="https://img.icons8.com/?size=100&id=77694&format=png&color=000000"/>
 <img align="left" alt="Pyton" src="https://img.icons8.com/?size=100&id=13407&format=png&color=000000"/>
 <img align="left" alt="HTML5" src="https://img.icons8.com/color/36/000000/html-5.png"/>
 <img align="left" alt="CSS3" src="https://img.icons8.com/color/36/000000/css3.png"/>
