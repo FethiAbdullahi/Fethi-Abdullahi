@@ -1,7 +1,7 @@
 Hi, This is Fethi <img src="Wave.gif" height="22px" width="22px">
 
 
-Frontend Developer
+Data Analyst and Buisness Development Analyst
 
 - 🔭 I’m currently working on [Gebeya](https://Gebeya.com) in the Mesirat Project as a Buisness Development Analyst and Data Analyst
 - 💬 Ask me about anything tech related, I am happy to help;
