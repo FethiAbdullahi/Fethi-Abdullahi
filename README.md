@@ -1,4 +1,4 @@
-Hi, This is Fethi <img src="Fethi Abdullahi/Wave.gif" height="22px" width="22px">
+Hi, This is Fethi <img src="Wave.gif" height="22px" width="22px">
 
 
 Frontend Developer
